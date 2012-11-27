@@ -1,0 +1,28 @@
+== shwups-cms
+make any svg-element editable
+
+= Features (optional):
+- move shapes
+- resize shapes
+- rotate shapes
+- edit text
+- align it left center right
+- zoom canvas
+- image size check
+- keyboard navigation
+- undo /redo
+- unloadWarning
+
+Feel free to contact me!
+
+= Demo:
+http://htmlpreview.github.com/?https://raw.github.com/nuxodin/svgEditable/master/tests/index.htm
+
+= Feedback welcome!
+
+= License:
+MIT License
+http://opensource.org/licenses/mit-license.php
+
+
+
