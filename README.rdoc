@@ -1,4 +1,4 @@
-== shwups-cms
+== svgEditable
 make any svg-element editable
 
 = Features (optional):
@@ -18,11 +18,11 @@ Feel free to contact me!
 = Demo:
 http://htmlpreview.github.com/?https://raw.github.com/nuxodin/svgEditable/master/tests/index.htm
 
-= Feedback welcome!
 
 = License:
 MIT License
 http://opensource.org/licenses/mit-license.php
 
+== Feedback welcome!
 
 
