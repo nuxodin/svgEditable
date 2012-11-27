@@ -1,0 +1,38 @@
+.qgSvgWrapper.rotating, .qgSvgWrapper .rotating {
+	cursor:url('/cms/m/core/js/qgSvg/img/rotate.cur'),default !important;
+	cursor:url('img/rotate.png') 12 12, auto !important;
+}
+
+.qgSvgWrapper .-hide {
+	opacity:0;
+}
+
+/* text-editor */
+
+#qgSvgTexteditor > .-tools {
+    height:35px;
+}
+#qgSvgTexteditor > .-tools > div {
+    width:18px;
+    height:18px;
+    padding:3px;
+    margin:3px;
+    border-radius:4px;
+    border: 1px solid #999999;
+    background-color: #b9e4ed;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 1px 1px 1px 1px rgba(9, 9, 9, 0.1);
+    float:left;
+}
+#qgSvgTexteditor > .-tools > div:hover{
+    background-color:#7fcfe2;
+    box-shadow: 0px 0px 0px 0px rgba(9, 9, 9, 0);
+}
+#qgSvgTexteditor .-doBold { background-image:url('img/bold.png'); }
+#qgSvgTexteditor .-doItalic{ background-image:url('img/italic.png'); }
+#qgSvgTexteditor .-doBigger{ background-image:url('img/fontBigger.png'); }
+#qgSvgTexteditor .-doSmaller{ background-image:url('img/fontSmaller.png'); }
+#qgSvgTexteditor .-doFont{ background-image:url('img/font.png'); }
+#qgSvgTexteditor .-doColor{ background-image:url('img/color.png'); }
+
