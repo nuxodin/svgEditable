@@ -16,7 +16,7 @@ make any svg-element editable
 Feel free to contact me!
 
 = Demo:
-http://htmlpreview.github.com/?https://raw.github.com/nuxodin/svgEditable/master/tests/index.htm
+http://rawgit.com/nuxodin/svgEditable/master/tests/index.htm
 
 
 = License:
